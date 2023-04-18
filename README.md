@@ -1,2 +1,2 @@
-Assignment 8.
+A Virtual Robot built using WebGL, and capable of performing various actions
 
